@@ -1,20 +1,19 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Vincent's Technical Blog!
 ---
 
+## Thanks for your visit, I will build blog late.
 
-
-## Sample Posts
-
-Here's a sample "posts list".
+<!--
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+-->
 
 
 
